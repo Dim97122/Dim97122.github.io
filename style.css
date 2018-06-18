@@ -3,9 +3,14 @@ p em
   font-weight: bold;
 }
 
+.quote
+{
+  padding-left: 10px;
+  margin-left: 50px;
+  margin-bottom: 20px
+}
+
 .border
 {
-  border-bottom: 2px black solid;
-  padding-left: 10px;
-  margin-left: 50px
+  border-top: 3px black solid
 }
