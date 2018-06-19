@@ -25,3 +25,9 @@ p h2
 {
   font-weight: bold;
 }
+
+body
+{
+  width: 50%;
+  text-align: center;
+}
