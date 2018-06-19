@@ -1,0 +1,27 @@
+.quote
+{
+  padding-left: 10px;
+  margin-left: 50px;
+  margin-bottom: 20px
+}
+
+.border
+{
+  padding-top: 40px;
+  border-top: 2px solid black
+}
+
+.italic
+{
+  font-style: italic;
+}
+
+.bold
+{
+  font-weight: bold;
+}
+
+p h2
+{
+  font-weight: bold;
+}
