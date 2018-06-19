@@ -29,5 +29,6 @@ p h2
 body
 {
   width: 50%;
-  text-align: center;
+  text-align: left;
+  margin-left: 25%
 }
