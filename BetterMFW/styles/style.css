@@ -1,0 +1,43 @@
+.quote
+{
+  padding-left: 10px;
+  margin-left: 50px;
+  margin-bottom: 20px
+}
+
+.border
+{
+  padding-top: 40px;
+  border-top: 2px solid black
+}
+
+.italic
+{
+  font-style: italic;
+}
+
+.bold
+{
+  font-weight: bold;
+}
+
+p h2
+{
+  font-weight: bold;
+}
+
+body
+{
+  margin: 40px auto;
+  max-width: 650px;
+  line-height: 1.6;
+  font-size: 18px;
+  color: #444;
+  padding: 0 10px;
+  width: 50%;
+  }
+
+  html
+  {
+    background-color: #EEEEEE
+  }
