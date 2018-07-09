@@ -22,7 +22,7 @@ def titleize(word)
   word.sub!(/\b[a-z]*\b/, "o")
 end
 
-'def titleize(a)
+def titleize(a)
  lowercase_words = %w{a an the and but or for nor of}
  a.split.each_with_index.map{|x, index| lowercase_words.include?(x) && index > 0 ? x : x.capitalize }.join(" ")
-end'
+end
